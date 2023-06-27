@@ -1,1 +1,5 @@
-Experienced Customer Success/Account Manager with 4+ years of expertise in driving business success through strategic relationship management, revenue retention, and showcasing product value. Fluent in English, Swedish, and Norwegian. Skilled in CRM tools (HubSpot, Salesforce) and data analysis (Excel, SQL, Tableau, Python).
+Hey, I'm Johnny. 
+
+I worked in the tech space since 2009. In the end of 2022 I signed up for a Data Analytics Program at CareerFoundry to learn more about data. After learning about Excel, SQL, Tableau, and Python, I got hooked on Python. Here below you can find some of the projects I made. 
+
+You can also find me on LinkedIn: https://www.linkedin.com/in/johnnytillqvist/
