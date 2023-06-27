@@ -1,5 +1,5 @@
-Hey, I'm Johnny. 
+Hey, I'm Johnny.
 
-I worked in the tech space since 2009. In the end of 2022 I signed up for a Data Analytics Program at CareerFoundry to learn more about data. After learning about Excel, SQL, Tableau, and Python, I got hooked on Python. Here below you can find some of the projects I made. 
+I have been working in the tech space since 2009. In late 2022, I enrolled in a Data Analytics Program at CareerFoundry to enhance my knowledge of data. Throughout the program, I gained proficiency in Excel, SQL, Tableau, and Python. However, Python captured my interest the most. Below are some of the projects I have completed.
 
 You can also find me on LinkedIn: https://www.linkedin.com/in/johnnytillqvist/
