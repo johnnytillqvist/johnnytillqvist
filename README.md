@@ -6,4 +6,4 @@
 
 💡 I possess strong proficiency in CRM tools such as HubSpot and Salesforce, enabling me to streamline customer interactions and drive efficient workflows. Furthermore, I am skilled in data analysis using Excel, SQL, Tableau, and Python. This combination of technical expertise and business acumen empowers me to derive meaningful insights, optimize processes, and identify growth opportunities.
 
-🚀 I'm excited about collaborating with like-minded professionals, sharing knowledge, and contributing to innovative projects. Let's connect and explore ways to create value together!
+🚀 I'm excited about collaborating with like-minded professionals, sharing knowledge, and contributing to innovative projects.
